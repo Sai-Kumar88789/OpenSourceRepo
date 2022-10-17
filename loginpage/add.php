@@ -1,6 +1,8 @@
 <?php
 session_start();
 
+
+#changes again done
 if (!isset($_SESSION['name'])) {
     die('ACCESS DENIED');
 }
