@@ -1,8 +1,8 @@
 <?php
 session_start();
 
-#commit by 2nd contributor saikumar323
 
+#changes again done
 if (!isset($_SESSION['name'])) {
     die('ACCESS DENIED');
 }
