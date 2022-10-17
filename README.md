@@ -8,7 +8,7 @@ Code of Conduct
 This is a community-driven open source project developed by a diverse group of
 [contributors].The leadership has made a strong
 commitment to creating an open, inclusive, and positive community. 
-This project is used to developing a  loginpage using PHP.
+This project is used to developing a  loginpage using PHP effiently.
 Call for Contributions
 ----------------------
 
