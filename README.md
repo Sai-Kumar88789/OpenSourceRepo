@@ -1,12 +1,12 @@
 # OpensourceRepo
-This project will explain a developing loginpage using PHP.
+
 Code of Conduct
 ----------------------
 
 This is a community-driven open source project developed by a diverse group of
 [contributors].The leadership has made a strong
 commitment to creating an open, inclusive, and positive community. 
-
+This project is used to developing a  loginpage using PHP.
 Call for Contributions
 ----------------------
 
